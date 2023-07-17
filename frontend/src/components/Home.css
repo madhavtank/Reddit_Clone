@@ -1,0 +1,25 @@
+.welcome {
+    background: url("./welcome.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 92vh;
+    position: relative;
+    overflow: hidden;
+}
+
+/* .navbar{
+    position: fixed;
+} */
+/* table{
+    width: 50%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJoDUFWM8eRhLEJvVqTO9Tl0XOa4kxKEj3Hw&usqp=CAU');
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+td{
+    font-family: 'Square Peg', cursive;
+    border: 5px solid black;
+    width: 50%;
+    text-align: center;
+} */
